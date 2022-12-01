@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Index"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Index"
+	}
+}
